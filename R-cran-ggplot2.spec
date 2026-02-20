@@ -3,7 +3,7 @@
 Summary:	Fast hierarchical clustering routines for R and Python
 Name:		R-cran-%{modulename}
 Version:	0.9.3.1
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/Math
 Source0:	ftp://stat.ethz.ch/R-CRAN/src/contrib/%{modulename}_%{fversion}.tar.gz
